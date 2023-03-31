@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+  m_Name: entryScene
+  m_EditorClassIdentifier: 
+  _clientAccessToken: U6R3TGCZ3BZ44FJFMU63Z5JA3VFNBJLD
+  _appInfo:
+    name: train
+    id: 693362079237832
+    lang: en
+    isPrivate: 0
+    createdAt: 2023-03-02T02:49:27-0800
+    trainingStatus: 1
+    lastTrainDuration: 25
+    lastTrainedAt: 2023-03-03T08:46:00-0800
+    nextTrainAt: 2023-03-03T08:45:35-0800
+    intents:
+    - id: 113121764954627
+      name: body_part
+      entities:
+      - name: appendix:appendix
+        id: 183595207712808
+      - name: bladder:bladder
+        id: 1575902956212488
+      - name: kidney:kidney
+        id: 1333073363903284
+      - name: liver:liver
+        id: 764787025162751
+      - name: show:show
+        id: 1574973989666745
+      - name: small_intestines:small_intestines
+        id: 3478411282483363
+      - name: spleen:spleen
+        id: 1577676196085665
+      - name: stomach:stomach
+        id: 543496974552354
+    - id: 178081011601099
+      name: doctor_office
+      entities:
+      - name: person:person
+        id: 932599774410351
+      - name: room:room
+        id: 726837745565188
+    - id: 925435778807163
+      name: patient_records
+      entities:
+      - name: information:information
+        id: 913161809883310
+      - name: person:person
+        id: 932599774410351
+      - name: show:show
+        id: 1574973989666745
+    - id: 1134118250606937
+      name: pause_simulation
+      entities:
+      - name: action:action
+        id: 1941995839492742
+    - id: 759535972049888
+      name: resume_simulation
+      entities:
+      - name: action:action
+        id: 1941995839492742
+      - name: start:start
+        id: 724418752510033
+    - id: 212850207928794
+      name: start_simulation
+      entities:
+      - name: action:action
+        id: 1941995839492742
+      - name: start:start
+        id: 724418752510033
+    - id: 512626327728022
+      name: stop_simulation
+      entities:
+      - name: action:action
+        id: 1941995839492742
+    - id: 130871726578016
+      name: surgery_room
+      entities:
+      - name: person:person
+        id: 932599774410351
+      - name: room:room
+        id: 726837745565188
+    - id: 176451141792240
+      name: wit$get_time
+      entities:
+      - name: wit$duration:duration
+        id: 730662155357074
+    entities:
+    - name: action
+      id: 622984852941446
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: action
+        id: 1941995839492742
+      keywords:
+      - keyword: pause
+        synonyms:
+        - pause
+      - keyword: simulation
+        synonyms:
+        - simulation
+      - keyword: surgery
+        synonyms:
+        - surgery
+    - name: appendix
+      id: 217096290850818
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: appendix
+        id: 183595207712808
+      keywords:
+      - keyword: appendix
+        synonyms:
+        - appendix
+    - name: bladder
+      id: 747056616885643
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: bladder
+        id: 1575902956212488
+      keywords:
+      - keyword: bladder
+        synonyms:
+        - bladder
+    - name: body_part
+      id: 948432119647212
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: body_part
+        id: 184624064269103
+      keywords: []
+    - name: colon
+      id: 135644245827098
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: colon
+        id: 751219629952094
+      keywords:
+      - keyword: colon
+        synonyms:
+        - colon
+    - name: gall
+      id: 905116747351453
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: gall
+        id: 6109899352363451
+      keywords:
+      - keyword: gall
+        synonyms:
+        - gall
+    - name: information
+      id: 725456029037959
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: information
+        id: 913161809883310
+      keywords:
+      - keyword: records
+        synonyms:
+        - records
+    - name: kidney
+      id: 703705354782556
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: kidney
+        id: 1333073363903284
+      keywords:
+      - keyword: kidney
+        synonyms:
+        - kidney
+    - name: liver
+      id: 194614249922029
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: liver
+        id: 764787025162751
+      keywords:
+      - keyword: gall
+        synonyms:
+        - gall
+      - keyword: liver
+        synonyms:
+        - liver
+    - name: person
+      id: 1575765352837110
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: person
+        id: 932599774410351
+      keywords:
+      - keyword: doctor
+        synonyms:
+        - doctor
+      - keyword: patient
+        synonyms:
+        - patient
+      - keyword: surgery
+        synonyms:
+        - surgery
+    - name: room
+      id: 902126097777585
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: room
+        id: 726837745565188
+      keywords:
+      - keyword: office
+        synonyms:
+        - office
+      - keyword: room
+        synonyms:
+        - room
+    - name: show
+      id: 3553105678347027
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: show
+        id: 1574973989666745
+      keywords:
+      - keyword: display
+        synonyms:
+        - display
+      - keyword: highlight
+        synonyms:
+        - highlight
+    - name: small_intestines
+      id: 1552107778604562
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: small_intestines
+        id: 3478411282483363
+      keywords:
+      - keyword: small intestines
+        synonyms:
+        - small intestines
+    - name: spleen
+      id: 1204180280226270
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: spleen
+        id: 1577676196085665
+      keywords:
+      - keyword: spleen
+        synonyms:
+        - spleen
+    - name: start
+      id: 1437573450108460
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: start
+        id: 724418752510033
+      keywords:
+      - keyword: begin
+        synonyms:
+        - begin
+      - keyword: resume
+        synonyms:
+        - resume
+    - name: stomach
+      id: 3393632970891602
+      lookups:
+      - free-text
+      - keywords
+      roles:
+      - name: stomach
+        id: 543496974552354
+      keywords:
+      - keyword: colon
+        synonyms:
+        - colon
+      - keyword: stomach
+        synonyms:
+        - stomach
+    - name: wit$duration
+      id: 535a80fb-4be9-4991-a48e-8b2ca4ef6e54
+      lookups: []
+      roles:
+      - name: duration
+        id: 730662155357074
+      keywords: []
+    traits: []
+    voices:
+    - name: Charlie
+      locale: en_US
+      gender: male
+      styles:
+      - default
+      - soft
+      - fast
+      - projected
+    - name: Cooper
+      locale: en_US
+      gender: male
+      styles:
+      - default
+      - soft
+      - formal
+      - fast
+      - projected
+    - name: Prospector
+      locale: en_US
+      gender: male
+      styles:
+      - default
+    - name: Rebecca
+      locale: en_US
+      gender: female
+      styles:
+      - default
+      - soft
+      - formal
+      - fast
+      - projected
+    - name: Vampire
+      locale: en_US
+      gender: male
+      styles:
+      - default
+      - soft
+      - formal
+      - fast
+      - projected
+  _configurationId: 8aa72ecf-ddec-49bb-919f-f27eebab2d16
+  timeoutMS: 10000
+  endpointConfiguration:
+    uriScheme: 
+    authority: 
+    port: 0
+    witApiVersion: 
+    speech: 
+    message: 
+    dictation: 
+  isDemoOnly: 0
+  useConduit: 1
+  _manifestLocalPath: ConduitManifest-03d1386e-f8b8-4dc7-b2a2-7cb451f4522a.json
+  excludedAssemblies: []
