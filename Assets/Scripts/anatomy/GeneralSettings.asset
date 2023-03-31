@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 223d4feac1c048348a048f0ee7cb0c01, type: 3}
+  m_Name: GeneralSettings
+  m_EditorClassIdentifier: 
+  score: 0
+  highestScore: 8
+  resultText:
+  - <color=red> FAILURE </color>
+  - <color=green> DO BETTER </color>
+  - <color=green> GENUIS </color>
+  errors: 0
+  isStarted: 0
+  rotSpeed: 100
+  difficulty: 0
+  timer: 300
+  timerRunning: 0
+  timerReduction: 0
+  waitingTime: 2
+  retries: 0

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0c70037cab742489638371809911be, type: 3}
+  m_Name: bodyFunctions
+  m_EditorClassIdentifier: 
+  organNames:
+  - LIVER
+  - PLEURA
+  - STOMACH
+  functions:
+  - '<br>Metabolism: The liver plays a central role in the metabolism of carbohydrates,
+    proteins, and fats. It converts glucose into glycogen, which can be stored in
+    the liver and used as an energy source when needed.<br> <br>Detoxification: The
+    liver plays a crucial role in detoxifying the body by breaking down and removing
+    toxins, drugs, and metabolic waste products from the bloodstream.<br><br>Synthesis:
+    The liver synthesizes many essential proteins, including blood-clotting factors
+    and albumin, which helps to maintain blood pressure and transport molecules throughout
+    the body. <br><br>Storage: The liver stores vitamins, minerals, and other essential
+    nutrients, such as iron and copper.'
+  - '<br>Protection: The pleura helps protect the lungs by creating a fluid-filled
+    sac around them. This sac acts as a cushion, reducing friction and preventing
+    the lungs from rubbing against the chest wall.<br><br>Lubrication: The pleural
+    fluid that fills the pleural cavity acts as a lubricant, allowing the lungs to
+    move smoothly as we breathe.<br><br>Breathing: The pleura is essential for breathing.
+    When we inhale, the diaphragm contracts, and the chest cavity expands, causing
+    the lungs to expand as well. The pleura keeps the lungs attached to the chest
+    wall, allowing them to move as the chest expands.<br><br>Immune defense: The
+    pleura contains lymphatic vessels that help remove waste products and protect
+    against infection.'
+  - '<br>Storage: The stomach can expand and contract to accommodate food as it is
+    ingested. This allows it to store food until it is ready to be digested.<br><br>Mixing
+    and churning: The stomach uses its muscles to mix and churn food with digestive
+    juices such as hydrochloric acid and enzymes. This process breaks down food into
+    smaller particles and prepares it for further digestion in the small intestine.
+    <br><br>Secretion: The stomach secretes a number of substances that aid in digestion,
+    including hydrochloric acid, pepsin, and mucus. Hydrochloric acid helps to break
+    down proteins, while pepsin is an enzyme that digests proteins. Mucus helps to
+    protect the stomach lining from the acidic environment.<br><br>Absorption: The
+    stomach is not a major site of nutrient absorption, but some nutrients, such
+    as alcohol and certain medications, can be absorbed through the stomach lining.'
+  - 
+  - 
+  description:
+  - The liver is a vital organ located in the upper right quadrant of the abdomen,
+    just below the diaphragm and to the right of the stomach. It is the largest glandular
+    organ in the human body and performs many important functions that are essential
+    to the body's overall health and well-being.  The liver has a unique structure
+    that allows it to carry out its many functions. It is made up of thousands of
+    small lobules, each of which contains liver cells called hepatocytes, as well
+    as blood vessels, bile ducts, and other specialized cells.
+  - 'The pleura is a thin, double-layered membrane that surrounds the lungs and lines
+    the inside of the chest cavity. It consists of two layers:  Visceral pleura:
+    This layer covers the lungs and is in direct contact with their surface. It is
+    a thin, transparent layer of mesothelial cells that are tightly adhered to the
+    lung tissue.  Parietal pleura: This layer lines the inside of the chest cavity
+    and is separated from the visceral pleura by a small amount of pleural fluid.
+    It is composed of two layers: the outer layer, which is attached to the chest
+    wall, and the inner layer, which is in contact with the visceral pleura.'
+  - The stomach is a muscular sac located in the upper abdomen, between the esophagus
+    and the small intestine. It plays a vital role in the digestive system, as it
+    receives food from the esophagus and mixes it with digestive juices to begin
+    the process of breaking it down into nutrients that can be absorbed by the body.
+  location:
+  - 'The liver is located in the upper right quadrant of the abdomen, just below
+    the diaphragm and to the right of the stomach. It is the largest glandular organ
+    in the human body and is divided into four lobes: the right lobe, left lobe,
+    caudate lobe, and quadrate lobe.'
+  - The pleura is a thin, double-layered membrane that surrounds the lungs and lines
+    the inside of the chest cavity. It is located in the thoracic cavity, which is
+    the part of the body that lies between the neck and the abdomen.
+  - 'The stomach is located in the upper abdomen, between the esophagus and the small
+    intestine. It is situated in the left upper quadrant of the abdomen, just below
+    the left ribcage. '
+  size:
+  - 
+  - 
+  - 
+  diseases:
+  - 
+  - 
+  - 
+  treatment:
+  - 
+  - 
+  - 
+  importance:
+  - 
+  - 
+  - 
+  BloodSupply:
+  - 
+  - 
+  - 
+  pContent:
+  - PLEURA
+  - 
+  - '<br>Protection: The pleura helps protect the lungs by creating a fluid-filled
+    sac around them. This sac acts as a cushion, reducing friction and preventing
+    the lungs from rubbing against the chest wall. <br>Lubrication: The pleural fluid
+    that fills the pleural cavity acts as a lubricant, allowing the lungs to move
+    smoothly as we breathe.  <br>Breathing: The pleura is essential for breathing.
+    When we inhale, the diaphragm contracts, and the chest cavity expands, causing
+    the lungs to expand as well. The pleura keeps the lungs attached to the chest
+    wall, allowing them to move as the chest expands. <br>Immune defense: The pleura
+    contains lymphatic vessels that help remove waste products and protect against
+    infection.'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  headingNames:
+  - ORGAN NAMES
+  - DESCRIPTION
+  - FUNCTIONS
+  - LOCATION
+  - SIZE
+  - DISEASES
+  - IMPORTANCE
+  - TREATMENT
