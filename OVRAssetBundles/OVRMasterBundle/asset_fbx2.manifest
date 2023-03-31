@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1160617288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c92ac8111293b52e137ef959e115532
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fbcfe1c32c87fc69c31bd91ebe2c1881
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Medical equipment/Medical furniture/Table_2/Table_2.fbx
+- Assets/Medical equipment/Medical instruments/Medical_instrument_7.fbx
+- Assets/RANDOM/furnish 1.fbx
+- Assets/NPC/Surgery/Warrior Idle.fbx
+- Assets/Medical equipment/Equipment/Equipment_39/Equipment_39.fbx
+- Assets/RANDOM/untitled.fbx
+- Assets/RANDOM/body (1).fbx
+- Assets/Medical equipment/Equipment/Equipment_16/Equipment_16.fbx
+- Assets/Medical equipment/Medical furniture/Medical_cabinet_1/Medical_cabinet_1.fbx
+- Assets/Medical equipment/Equipment/Equipment_8/Equipment_8.fbx
+- Assets/Medical equipment/Equipment/Equipment_19/Equipment_19.fbx
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_mat4

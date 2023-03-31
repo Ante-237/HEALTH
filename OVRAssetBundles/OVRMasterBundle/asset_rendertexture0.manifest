@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 918598485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b73e45f05edd49d4987942d1148ac620
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 723d7b972e72461205a935bff5e6bf42
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CameraTextures/screenThree.renderTexture
+- Assets/Video Player/c-section.renderTexture
+- Assets/Video Player/sugeryAgioplasticRender.renderTexture
+- Assets/Video Player/skeletilelSystem.renderTexture
+- Assets/Video Player/practiceVascularSystem.renderTexture
+- Assets/Video Player/TutorialTeleport.renderTexture
+- Assets/CameraTextures/screenTwo.renderTexture
+- Assets/Video Player/vascularRender.renderTexture
+Dependencies: []

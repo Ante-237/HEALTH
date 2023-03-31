@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2493415111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff79a22b2f6d5b836ebc100a513daf3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RANDOM/standing_picture_frame_02_artwork_diff_4k.png
+- Assets/RANDOM/Remy_Bottom_Normal.png
+- Assets/RANDOM/Remy_Shoes_Diffuse.png
+- Assets/RANDOM/Picsart_23-02-06_11-23-50-666.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_1_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_2_AlbedoTransparency.png
+- Assets/RANDOM/Remy_Body_Diffuse.png
+- Assets/RANDOM/Remy_Body_Normal.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_3_MetallicSmoothness.png
+- Assets/RANDOM/Remy_Top_Diffuse.png
+- Assets/Oculus/Interaction/Samples/Textures/Passed.png
+- Assets/Oculus/Interaction/Samples/Textures/Default.png
+- Assets/RANDOM/Remy_Hair_Diffuse.png
+- Assets/Resources 1/Content/medicalequipment_image.png
+- Assets/Medical equipment/General Materials/T_Stell_Normal.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/Resources 1/Content/reception_image.png
+- Assets/Medical equipment/Premises/Floor/T_Floor_3_AlbedoTransparency.png
+- Assets/RANDOM/20230207_185640_0000.png
+- Assets/RANDOM/Remy_Top_Normal.png
+- Assets/Resources 1/Content/office_image.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_3_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_1_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_3_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_6_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_1_AlbedoTransparency.png
+- Assets/Oculus/Interaction/Runtime/Textures/BlockedGradient.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_3_Emission.png
+- Assets/RANDOM/1675383096611.png
+Dependencies: []

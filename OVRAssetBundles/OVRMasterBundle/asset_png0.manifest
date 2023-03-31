@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2884563670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28a607258bf67431fc1091ebec1d7276
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/RANDOM/Remy_Hair_Normal.png
+- Assets/RANDOM/Remy_Bottom_Diffuse.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
+- Assets/Resources 1/Content/lab_image.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_2_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_2_Normal.png
+- Assets/Oculus/Interaction/Samples/Textures/Active.png
+- Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Textures/OCUI_24_Filled_2x.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
+- Assets/Medical equipment/General Materials/T_Glass_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Door/T_Door_1_1_Normal.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_1_Normal.png
+- Assets/Oculus/Interaction/Samples/Textures/OCUIIconSet/OCUI_24_Outline_2x.png
+- Assets/Oculus/Interaction/Runtime/Textures/RainbowGradient.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
+- Packages/com.unity.postprocessing/PostProcessing/Gizmos/PostProcessLayer.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Medical equipment/General Materials/T_Glass_MetallicSmoothness.png
+- Assets/Images/EntryScene/simulationImage.png
+- Assets/RANDOM/fancy_picture_frame_01_canvas_diff_4k.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_4_Normal.png
+- Assets/Medical equipment/Premises/Door/T_Door_1_1_MetallicSmoothness.png
+- Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
+- Assets/Resources 1/Content/anatomy_image.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_2_AlbedoTransparency.png
+- Assets/RANDOM/Remy_Shoes_Normal.png
+Dependencies: []

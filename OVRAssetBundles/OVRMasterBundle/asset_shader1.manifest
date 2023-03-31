@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4015683308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccc9fb298001b2e0250318cd8cfcf0a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GrainBaker.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Copy.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Bloom.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DeferredFog.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/FinalPass.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromTexArray.shader
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Shaders/OculusSampleAlphaHandOutline.shader
+Dependencies: []

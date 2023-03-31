@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2546844860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a3a0ff453bf2194e05c05e692827282
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Video Player/Content/angioplasticSurgeryVideo.mp4
+- Assets/Video Player/Content/com.oculus.xrstreamingclient-20230329-125335.mp4
+- Assets/Video Player/Content/com.oculus.xrstreamingclient-20230329-114141.mp4
+- Assets/Video Player/Content/anatomyPracticeVideo.mp4
+- Assets/Video Player/Content/0001-0100.mp4
+- Assets/Video Player/Content/TutorialVideo.mp4
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 54985768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33ec261583137801eea6d5ac172748dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9ff7947e86ac18259f8d8c6c35c7861
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/surgery/bagPickup/bagpickup.anim
+- Assets/Animations/surgery/SyringPickup/syringPickup.anim
+- Assets/Scripts/simulatorScene/Surgery/removingbag.anim
+- Assets/Animations/surgery/SyringInsert/syringinsertion.anim
+- Assets/Animations/surgery/LookAtMonitor/lookatMonitor.anim
+- Assets/Oculus/Interaction/Samples/Animations/LocationDoorOpen.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_1.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Locomotion/SelectHospot.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialSnapRotate_0.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_0.anim
+- Assets/Animations/surgery/wireRemoving/wireRemoving.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialUISnapOnClip.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialSnapRotate_2.anim
+- Assets/Animations/surgery/tubeInsertiono/tubeInsertion.anim
+- Assets/Animations/surgery/bagInsert/bagpusher.anim
+- Assets/Animations/surgery/heartBeat/heartBeat.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialSnapRotate_1.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_3.anim
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Animations/WaterScrollClip.anim
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_2.anim
+- Assets/Animations/surgery/sliderDown/sliderDown.anim
+Dependencies: []

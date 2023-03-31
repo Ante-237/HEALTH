@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 540826262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38599a706c6bcd8d20f9f6321db0c2ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDesk.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_58.png
+- Assets/Scenes/surgery/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionBalcony.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
+- Assets/Medical equipment/Equipment/Equipment_39/T_Equipment_39_MetallicSmoothness.png
+- Assets/Medical equipment/Medical instruments/T_Medical_instrument_7_AlbedoTransparency.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/button.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_1_Emission.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_stepok@2x.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/WoodenPlanks.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_4.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionGarden.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Oculus/Interaction/Runtime/Textures/Reticle-Circle.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionGround.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_10.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_1_AlbedoTransparency.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionSlidingDoor.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Assets/Oculus/Interaction/Samples/Textures/OCUIIconSet/OCUI_24_Filled_2x.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionDoor.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionDoorLight.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDeskShadow.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_47.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/LocomotionRoom/MetaLocomotionEnvironment.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_46.png
+Dependencies: []

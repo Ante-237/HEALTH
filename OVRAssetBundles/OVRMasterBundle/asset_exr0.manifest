@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 891319792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60db0d7b81dedc148691f9d7a8857242
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/entryScene/ReflectionProbe-0.exr
+- Assets/Scenes/surgery/ReflectionProbe-1.exr
+- Assets/RANDOM/wheelchair_01_metal_4k.exr
+- Assets/Scenes/anatomy/ReflectionProbe-1.exr
+- Assets/Scenes/surgery/Lightmap-0_comp_light.exr
+- Assets/RANDOM/Ottoman_01_nor_gl_4k.exr
+- Assets/RANDOM/marble_01_disp_4k.exr
+- Assets/Scenes/anatomy/Lightmap-0_comp_light.exr
+- Assets/RANDOM/laminate_floor_nor_gl_4k.exr
+- Assets/RANDOM/WetFloorSign_01_metallic_4k.exr
+- Assets/RANDOM/potted_plant_04_metal_4k.exr
+- Assets/RANDOM/laminate_floor_rough_4k.exr
+- Assets/RANDOM/marble_01_nor_gl_4k.exr
+- Assets/RANDOM/marble_01_nor_dx_4k.exr
+- Assets/Scenes/anatomy/ReflectionProbe-0.exr
+- Assets/RANDOM/potted_plant_04_nor_gl_4k.exr
+- Assets/RANDOM/WetFloorSign_01_nor_gl_4k.exr
+- Assets/Scenes/surgery/ReflectionProbe-0.exr
+- Assets/Oculus/Interaction/Samples/ThirdParty/Textures/EnvironmentMaps/photo_studio_broadway_hall_1k.exr
+- Assets/RANDOM/marble_01_rough_4k.exr
+- Assets/Scenes/entryScene/ReflectionProbe-1.exr
+- Assets/RANDOM/wheelchair_01_nor_gl_4k.exr
+Dependencies: []

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2176503166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f933b105df2881ba406970e64504b563
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader
+- Assets/Oculus/Interaction/Samples/Shaders/StencilWriter.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/Locomotion/TransparentVertexTexture.shader
+- Assets/Oculus/VR/Shaders/OVRTrackedKeyboard/BillboardTransitions.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/Locomotion/Hotspot.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromDoubleWide.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/LightMeter.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut2DBaker.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScalableAO.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/RoundedBoxUnlit.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MotionBlur.shader
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_Transparent.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DepthOfField.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusControllerRayShader.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DiscardAlpha.shader
+- Assets/Oculus/Interaction/Samples/Shaders/SkyboxGradient.shader
+- Assets/Oculus/Interaction/Samples/Shaders/floor.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStd.shader
+- Assets/Oculus/Interaction/Samples/Shaders/room.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture2DLerp.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/TemporalAntialiasing.shader
+- Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Overlays.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusHandCursor.shader
+- Assets/Oculus/Interaction/Samples/Shaders/StencilSky.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusHand.shader
+- Assets/Oculus/Interaction/Samples/Shaders/MRDeskShadow.shader
+Dependencies: []

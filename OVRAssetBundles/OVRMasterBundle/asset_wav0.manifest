@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2012186879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30b899a9a85aff232ab8b8c6c72f1b3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicRay_Press.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_Exit.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_04.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicPoke_ButtonPress.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_SnapTurn.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_ChangeDirection.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_Teleport.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicPoke_ButtonRelease.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_Enter.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_05.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_04.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_05.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_Declined.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Locomotion_HotspotHover.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_02.wav
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2390262659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0a734b0011547d28a45ecfec1bea8aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5509ab97bbb0d6a0a8ea5da94b41822
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/EntryScene/ghosthands_dst/handshow.anim
+- Assets/Animations/EntryScene/ghosthandsound.anim
+- Assets/Animations/EntryScene/ghosthands_dst/ghosthandpoking.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/thumbMask_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandMidFist_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandPinch_r_.anim
+- Assets/Animations/EntryScene/fading.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandCap_r_.anim
+- Assets/Animations/EntryScene/fadingout.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/indexMask_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandMidFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/Hand3qtrFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexSlide_r_.anim
+- Assets/RANDOM/anim left.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexPoint_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandPinch_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_l_.anim
+- Assets/Animations/simulator/tutorials/swipInstructions/swipeTwo.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/indexMask_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_r_.anim
+- Assets/Animations/simulator/tutorials/TurnHandIntructions/tillHand.anim
+- Assets/Animations/simulator/tutorials/swipInstructions/swipe.anim
+- Assets/NPC/sitting idle.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/thumbMask_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexPoint_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/Hand3qtrFist_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexSlide_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandCap_l_.anim
+Dependencies: []

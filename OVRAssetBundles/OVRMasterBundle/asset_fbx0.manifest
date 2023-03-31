@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 3185737899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14f135dd52d24e3b46febb52f90448cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc15991c8c9897635be901f2deab0c8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/LocomotionLocation.fbx
+- Assets/Medical equipment/Premises/Door/Door_1.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/LocomotionPointer.fbx
+- Assets/RANDOM/IVPole.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/LocomotionRing.fbx
+- Assets/RANDOM/potted_plant_04_4k.fbx
+- Assets/Medical equipment/Premises/Wall/Wall_10.fbx
+- Assets/Medical equipment/Premises/Wall/Wall_2.fbx
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/LocomotionCross.fbx
+- Assets/Medical equipment/Premises/Ceiling/Ceiling_1.fbx
+- Assets/Medical equipment/Premises/Ceiling/Ceiling_4.fbx
+- Assets/RANDOM/furnish.fbx
+- Assets/Medical equipment/Premises/Floor/Floor_3.fbx
+- Assets/NPC/Sitting Idle.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Medical equipment/Premises/Floor/Floor_1.fbx
+- Assets/RANDOM/wheelchair_01_4k.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Medical equipment/Premises/Wall/Wall_5.fbx
+- Assets/RANDOM/fancy_picture_frame_01_4k.fbx
+- Assets/RANDOM/standing_picture_frame_02_4k.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Medical equipment/Premises/Doorjamb/Doorjamb_1.fbx
+- Assets/RANDOM/plant 2.fbx
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png2

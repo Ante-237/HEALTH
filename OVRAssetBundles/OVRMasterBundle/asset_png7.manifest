@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 787676514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecff3d22eb60cb96c71f2d94b7e7ac2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_48.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_33.png
+- Assets/Medical equipment/Medical furniture/Medical_cabinet_1/T_Medical_cabinet_1_MetallicSmoothness.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_5.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/Oculus/Interaction/Samples/Textures/SCrim.png
+- Assets/Medical equipment/Medical furniture/Table_2/T_Table_2_Normal.png
+- Assets/Medical equipment/Equipment/Equipment_31/T_Equipment_31_AlbedoTransparency.png
+- Assets/Medical equipment/Equipment/Equipment_16/T_Equipment_16_1_Emission.png
+- Assets/Scenes/anatomy/Lightmap-0_comp_dir.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_6.png
+- Assets/Medical equipment/Medical instruments/T_Medical_instrument_9_Normal.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_2_Emission.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_57.png
+- Assets/Medical equipment/Equipment/Equipment_19/T_Equipment_19_1_MetallicSmoothness.png
+- Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconoutofsync@2x.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_51.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_1_Normal.png
+- Assets/Medical equipment/Medical furniture/Medical_tripod_1/T_Medical_tripod_1_Normal.png
+Dependencies: []

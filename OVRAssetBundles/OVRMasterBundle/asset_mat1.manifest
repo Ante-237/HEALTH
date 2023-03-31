@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 4196664013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45d84485565f1816582a85a9c690feae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Materials/Oculus Hand Medic.mat
+- Assets/RANDOM/wheelchair.mat
+- Assets/Medical equipment/Premises/Doorjamb/M_Doorjamb_2.mat
+- Assets/RANDOM/drug 4.mat
+- Assets/Oculus/Interaction/Runtime/Materials/ProceduralArcMaterial.mat
+- Assets/Materials/pic 7.mat
+- Assets/Medical equipment/Premises/Doorjamb/M_Doorjamb_1.mat
+- Assets/Materials/pic 4.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
+- Assets/RANDOM/glass.mat
+- Assets/RANDOM/drug2.mat
+- Assets/Materials/standing_picture_frame_02_artwork_diff_4k.mat
+- Assets/Materials/image.mat
+- Assets/Medical equipment/General Materials/M_Stell.mat
+- Assets/Materials/pic 5.mat
+- Assets/Oculus/Interaction/Runtime/Materials/CrossMaterial.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandCursor.mat
+- Assets/RANDOM/glass 2.mat
+- Assets/Medical equipment/Premises/Door/M_Door_1.mat
+- Assets/Medical equipment/Premises/Wall/Materials/T_Wall_5_AlbedoTransparency.mat
+- Assets/Medical equipment/Premises/Ceiling/M_Ceiling_1.mat
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/Materials/MetaCrossMat.mat
+- Assets/RANDOM/wet floor.mat
+- Assets/Medical equipment/Premises/Floor/M_Floor_3.mat
+- Assets/Oculus/Interaction/Runtime/Meshes/Locomotion/Materials/MetaSecondaryGradientMat.mat
+- Assets/Materials/potted_plant_01_leaves_diff_4k.mat
+- Assets/RANDOM/floorstudent office.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+- Assets/Materials/Picsart_23-02-06_14-10-50-457.mat
+- Assets/Medical equipment/Premises/Ceiling/M_Ceiling_3.mat
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpeg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader0

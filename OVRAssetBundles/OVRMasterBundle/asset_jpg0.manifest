@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 593361908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63555b62528ef69400508acce286c2e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RANDOM/marble_01_diff_4k.jpg
+- Assets/Medical equipment/Premises/Floor/SmudgesLarge001_OVERLAY_VAR1_3K.jpg
+- Assets/meat.jpg
+- Assets/RANDOM/pic 7.jpg
+- Assets/RANDOM/fancy_picture_frame_01_diff_4k.jpg
+- Assets/RANDOM/Picsart_23-02-05_20-50-36-455.jpg
+- Assets/Materials/texture-blue-non-woven-fabric-sewing-disposable-protective-medical-clothing-179432095.jpg
+- Assets/RANDOM/pic 4.jpg
+- Assets/RANDOM/wheelchair_01_rough_4k.jpg
+- Assets/Images/EntryScene/tutorialImage.jpg
+- Assets/RANDOM/potted_plant_04_diff_4k.jpg
+- Assets/Materials/black-skins-human-skin_640v640.jpg
+- Assets/RANDOM/pic 2.jpg
+- Assets/RANDOM/laminate_floor_diff_4k.jpg
+- Assets/RANDOM/WetFloorSign_01_roughness_4k.jpg
+- Assets/RANDOM/pic 3.jpg
+- Assets/RANDOM/pic 5.jpg
+- Assets/7139.jpg
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Locomotion/Textures/Tiles/WaterRipplesNormal.jpg
+- Assets/Medical equipment/Premises/Wall/TilesMarbleSageGreenBrickBondHoned001_flat.jpg
+- Assets/RANDOM/Picsart_23-02-06_14-34-38-503.jpg
+- Assets/RANDOM/wheelchair_01_diff_4k.jpg
+- Assets/2560x1440-liver-organ-solid-color-background.jpg
+- Assets/RANDOM/Picsart_23-02-06_14-10-50-457.jpg
+- Assets/RANDOM/WetFloorSign_01_diff_4k.jpg
+Dependencies: []

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2590962939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aef6c7bc430442d68dc0ce7d2d96e253
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFurnitureMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskMat.mat
+- Assets/visceral system/pancreas.mat
+- Assets/visceral system/gall bladder.mat
+- Assets/visceral system/nasal cavity.mat
+- Assets/visceral system/greater omentum.mat
+- Assets/Oculus/Interaction/Samples/Materials/SkyboxGradient.mat
+- Assets/RANDOM/drugs 5.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/WindowStencilWriter.mat
+- Assets/visceral system/penis.mat
+- Assets/visceral system/kidney.mat
+- Assets/visceral system/lung.mat
+- Assets/visceral system/parotid.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskShadow.mat
+- Assets/visceral system/bladder.mat
+- Assets/Materials/image (2).mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomWoodMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/visceral system/testis.mat
+- Assets/visceral system/gums.mat
+- Assets/visceral system/appendix.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFabricMat.mat
+- Assets/visceral system/Laryngopharynx.mat
+- Assets/RANDOM/drug1 material.mat
+- Assets/visceral system/descending colon.mat
+- Assets/visceral system/liver.mat
+- Assets/visceral system/thyroid gland.mat
+- Assets/visceral system/prostate.mat
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpeg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader0

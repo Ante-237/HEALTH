@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3154307836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5eec321f27769f1548f88a944d4a47e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4ed3be9a612f462d868529d0ead81cd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand Surgery.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Materials/bloodMaterial.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_transparent.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureSkeletonBoneMaterial.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureHandMaterial.mat
+- Assets/CameraTextures/Materials/screenThree.mat
+- Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/Red.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Materials/keyMaterial.mat
+- Assets/Medical equipment/Medical instruments/M_Medical_instrument_9.mat
+- Assets/CameraTextures/Materials/screenTwo.mat
+- Assets/Medical equipment/Equipment/Equipment_19/M_Equipment_19.mat
+- Assets/Medical equipment/Equipment/Equipment_39/M_Equipment_39.mat
+- Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Materials/LineMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/PlanetMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/MenuBackground.mat
+- Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/BlackUnlit.mat
+- Assets/Medical equipment/Medical furniture/Medical_cabinet_1/M_Medical_cabinet_1.mat
+- Assets/Medical equipment/Medical furniture/Medical_tripod_1/M_Medical_tripod_1.mat
+- Assets/Materials/blackDye.mat
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png4
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png5
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png6
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png7
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader1

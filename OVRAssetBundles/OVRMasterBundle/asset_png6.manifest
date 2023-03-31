@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1228369339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1089085f03435cdd25e003fdfc3722a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_56.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_20.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_35.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_2.png
+- Assets/Medical equipment/Equipment/Equipment_20/T_Equipment_20_1_AlbedoTransparency.png
+- Assets/Medical equipment/Equipment/Equipment_20/T_Equipment_20_1_MetallicSmoothness.png
+- Assets/Medical equipment/Medical instruments/T_Medical_instrument_9_MetallicSmoothness.png
+- Assets/Oculus/LipSync/Models/FemaleHead_Morph/skin_DIFF.png
+- Assets/Medical equipment/Medical furniture/Medical_tripod_1/T_Medical_tripod_1_MetallicSmoothness.png
+- Assets/Medical equipment/Medical furniture/Medical_cabinet_1/T_Medical_cabinet_1_Normal.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_7.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_1.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_54.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_27.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_61.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_8.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_17.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_30.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_49.png
+- Assets/Medical equipment/Equipment/Equipment_39/T_Equipment_39_AlbedoTransparency.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_42.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_1_MetallicSmoothness.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_0.png
+- Assets/Medical equipment/Equipment/Equipment_8/T_Equipment_8_2_MetallicSmoothness.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_15.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_3.png
+- Assets/Medical equipment/Equipment/Equipment_16/T_Equipment_16_1_MetallicSmoothness.png
+- Assets/Medical equipment/Equipment/Equipment_19/T_Equipment_19_1_AlbedoTransparency.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_0.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_55.png
+Dependencies: []

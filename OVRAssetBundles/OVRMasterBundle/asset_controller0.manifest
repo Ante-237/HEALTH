@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 167451758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a22d5d56ff31744f50eeb14bdc57cd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/surgery/bagInsert/sliderAddition.controller
+- Assets/Scripts/simulatorScene/Surgery/sliderAddition.controller
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_r_.controller
+- Assets/Animations/surgery/wireRemoving/sliderAddition.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Assets/Animations/EntryScene/Panel.controller
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_Turn.controller
+- Assets/Animations/simulator/tutorials/swipInstructions/Ghost-RightHand.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProRightAnimation.controller
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_TeleportRay.controller
+- Assets/Animations/simulator/tutorials/swipInstructions/Ghost-RightHand 1.controller
+- Assets/Animations/simulator/Panel.controller
+- Assets/Oculus/Interaction/Samples/Animations/Meta_LocationDoors.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/Animations/simulator/tutorials/TurnHandIntructions/Ghost-LeftHand.controller
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_l_.controller
+- Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_Teleport.controller
+- Assets/Animations/EntryScene/ghosthands_dst/Ghost-RightHand.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Assets/Animations/surgery/LookAtMonitor/placeholder.controller
+- Assets/RANDOM/Ghost-LeftHand.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Animations/EntryScene/Ghost-RightHand.controller
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProLeftAnimation.controller
+- Assets/Animations/surgery/SyringInsert/SyringInsertion.controller
+- Assets/Oculus/Interaction/Runtime/Animations/Locomotion/TeleportHotspot.controller
+- Assets/NPC/npc controller 2.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
+- Assets/Animations/EntryScene/ghosthands_dst/HandShow.controller
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_anim1
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_fbx1

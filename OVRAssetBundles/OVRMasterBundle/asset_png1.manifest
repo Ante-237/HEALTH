@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2321707698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37fccb9b8e04405b17d3669dd2eabad2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Medical equipment/General Materials/T_Stell_BaseColor.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_1_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_2_Normal.png
+- Assets/Resources 1/Content/surgery_image.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_5_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_4_AlbedoTransparency.png
+- Assets/Medical equipment/Premises/Doorjamb/T_Doorjamb_1_Normal.png
+- Assets/Medical equipment/Premises/Door/T_Door_1_1_AlbedoTransparency.png
+- Assets/Resources 1/Content/patient_room_image.png
+- Assets/Medical equipment/Premises/Floor/T_Floor_3_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Floor/T_Floor_3_Normal.png
+- Assets/Resources 1/Content/x-ray_image.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_2_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_1_Emission.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Assets/Medical equipment/General Materials/T_Glass_Normal.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_4_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_4_Emission.png
+- Assets/Oculus/Interaction/Runtime/Textures/Reticle-Dot.png
+- Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconemptygravatar@2x.png
+- Assets/Medical equipment/Premises/Ceiling/T_Ceiling_1_MetallicSmoothness.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_1_AlbedoTransparency.png
+- Assets/Resources 1/Content/pharmacy_image.png
+- Assets/Medical equipment/Premises/Wall/T_Wall_1_Normal.png
+Dependencies: []

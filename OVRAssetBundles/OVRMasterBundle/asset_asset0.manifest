@@ -1,0 +1,165 @@
+ManifestFileVersion: 0
+CRC: 2937718170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9362e6d6252c864d3c7ae4e6fbb4acb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5368b8f2e3dfa5b54ac7b03042f6c9d4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e0c70037cab742489638371809911be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cfe1df7ed391a24fbe2a2d275e81b06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 223d4feac1c048348a048f0ee7cb0c01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85fa156526017cc43acb65afe599d683, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5af6ab9d1bd4a47970ad151090281f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac666f23650b94b4ea891467ab3677e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitAppInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityKeywordInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityRoleInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitIntentEntityInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitIntentInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitVoiceInfo
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Configuration.WitEndpointConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureStateThreshold
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureThresholds
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.ShapeRecognizer/FingerFeatureConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.ShapeRecognizer/FingerFeatureConfigList
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.TransformFeatureStateThreshold
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.TransformFeatureThresholds
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.AmbientOcclusionModeParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.AmbientOcclusionQualityParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.BoolParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.ColorParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.FloatParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TextureParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Vector2Parameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.VignetteModeParameter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/MiddleFingerFeatureStateThresholds.asset
+- Assets/Scenes/entryScene_Profiles/entryScene_profile.asset
+- Assets/voiceAssets/entryScene.asset
+- Assets/Scenes/surgery/OcclusionCullingData.asset
+- Assets/Scenes/hallway/OcclusionCullingData.asset
+- Assets/Scenes/pharmacy/NavMesh.asset
+- Assets/Oculus/Interaction/Samples/Environment/Locomotion/NavMesh.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/DefaultThumbFeatureStateThresholds.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/Locomotion/LShape.asset
+- Assets/Scripts/anatomy/vascularsystem/bodyFunctions.asset
+- Assets/Scenes/simulator_Profiles/PostProcessingXRay Profile.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/Locomotion/RelaxedCurl.asset
+- Assets/Scripts/anatomy/GeneralSettings.asset
+- Assets/Scenes/surgery/NavMesh.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/Locomotion/OpenIndex.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/DefaultFingerFeatureStateThresholds.asset
+- Assets/Oculus/Interaction/Samples/Fonts/Roboto-Bold SDF.asset
+- Assets/Oculus/Interaction/Samples/Poses/Shapes/FingersAllNotClosed.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/DefaultTransformFeatureStateThresholds.asset
+- Assets/Oculus/Interaction/Samples/Fonts/Roboto-Medium SDF.asset
+- Assets/Scripts/anatomy/CompletionSettings.asset
+- Assets/Scenes/anatomy/OcclusionCullingData.asset
+- Assets/Scenes/simulator2/NavMesh.asset
+- Assets/Oculus/Interaction/Samples/Fonts/Roboto-Regular SDF.asset
+- Assets/Oculus/Interaction/Samples/Poses/Shapes/FingersFlexionAllOpen.asset
+- Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
+- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/IndexFingerFeatureStateThresholds.asset
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_compute0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png4
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png5
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png6
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png7
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader1
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_tga0

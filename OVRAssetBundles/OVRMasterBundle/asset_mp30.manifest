@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 720762960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05277a93194d03c41f1f293fba5cc7a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/voiceFunctions/GALLBLADDER.mp3
+- Assets/voiceFunctions/KIDNEYS.mp3
+- Assets/voiceFunctions/PANCREAS.mp3
+- Assets/voiceFunctions/GREATER OMENTUM.mp3
+- Assets/voiceFunctions/STOMACH.mp3
+- Assets/voiceFunctions/PLEURA.mp3
+- Assets/voiceFunctions/liver.mp3
+- Assets/voiceFunctions/TRACHEA.mp3
+- Assets/voiceFunctions/TAENIA MESOCOLICA.mp3
+Dependencies: []

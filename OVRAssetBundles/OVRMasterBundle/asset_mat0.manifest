@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1588342024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8462001b5ed02bec5e49c69efc04535
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandWire.mat
+- Assets/Medical equipment/Premises/Floor/Materials/T_Floor_3_AlbedoTransparency.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDepthOverwrite.mat
+- Assets/Medical equipment/General Materials/M_Glass.mat
+- Assets/Medical equipment/Premises/Wall/M_Wall_2.mat
+- Assets/Medical equipment/Premises/Ceiling/M_Ceiling_4.mat
+- Assets/Medical equipment/Premises/Wall/Materials/TilesMarbleSageGreenBrickBondHoned001_flat.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Ball Visible.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandPinchMaterial.mat
+- Assets/RANDOM/plant.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Materials/potted_plant_01_pot_diff_4k.mat
+- Assets/Materials/pic 3.mat
+- Assets/Materials/pic 2.mat
+- Assets/RANDOM/wall student office.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIUnderlayImposter.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayCursor.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/Medical equipment/Premises/Floor/Materials/SmudgesLarge001_OVERLAY_VAR1_3K.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01Mat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/HotspotMaterial.mat
+- Assets/Medical equipment/Premises/Wall/M_Wall_1.mat
+- Assets/Medical equipment/Premises/Wall/Materials/T_Wall_6_AlbedoTransparency.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDefaultOverlay.mat
+Dependencies:
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_resources
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Lenovo/2023/HEALTH/OVRAssetBundles/OVRMasterBundle/asset_tga0
