@@ -1,2 +1,2 @@
 # HEALTH
- repo moved from plastic to github
+ repo moved from plastic SCM to github
